@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xChrissyx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Hearing awesome stories from smart folks 
+- 🌱 I’m currently learning ... more about YOU! 
+- 💞️ I’m looking to collaborate on ... Early Career Software Engineers, SWE, For Google. 🖤 #JAVA #MobileDev #ENDPROD, #MACHINELEARNING, #FRONTEND , #SERVERSIDE , #C++
 - 📫 How to reach me ... carduff@google.com
 
 <!---
